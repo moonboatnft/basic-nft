@@ -15,7 +15,7 @@ cleos set contract your_eos_account ./nft
 
 ## How to issue NFTs
 
-```
+```js
 import { createCol, createAsset } from './scripts/actions.js';
 
 (async () => {
